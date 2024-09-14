@@ -1,6 +1,9 @@
 # Git Practice
 A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
 
+# Ian Pompliano
+I thought this was a really cool article. I've used a few different models of GPT but never really knew what was so different between them. It was interesting to read this and learn about some of the capabiility differences and tradeoffs.
+
 # Article Link
 * [Thoughts on OpenAI's new o1 chain-of-thought models](https://simonwillison.net/2024/Sep/12/openai-o1/?utm_source=tldrwebdev)
 
