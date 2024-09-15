@@ -12,3 +12,7 @@ As someone interested in the development of OpenAI's GPT models, I learned that 
 
 ### Sewon Kim's Comment:
 I found this article to be very interesting, especially how it mentions the process of thinking step-by-step being tested with the new models. I find it fascinating how the science of thinking patterns is being integrated into AI systems. I am excited to see what kinds of capabilities these new models will have!
+
+## My thoughts - Sahar
+It's interesting (and a bit scary) to see computers being able to almost follow a train of thought, something that I consider to be a very human trait. The idea that these models can think through complex problems, like solving crossword puzzles or calculating pH levels, makes me wonder just how much time and effort went into training them to reach this level of sophistication. It's also interesting to consider how these capabilities will affect development processes, especially since I recently saw a post where this version of ChatGPT created a simple game, something that can take programmers a decent amount of time. It raises questions about how AI will change workflows and problem-solving approaches in the future.
+
