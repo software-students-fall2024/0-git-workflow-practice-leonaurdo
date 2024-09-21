@@ -1,5 +1,5 @@
 
-# Article Link 
+# Interesting Article Link
 * [Thoughts on OpenAI's new o1 chain-of-thought models](https://simonwillison.net/2024/Sep/12/openai-o1/?utm_source=tldrwebdev)
 
 # What I find interesting
